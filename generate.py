@@ -7,7 +7,7 @@ import sys
 
 sys.setrecursionlimit(5000000)
 
-n = 1111
+n = 111 # maze size
 stack = LifoQueue()
 
 
