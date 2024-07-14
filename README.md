@@ -1,5 +1,5 @@
 # maze-generator
-![Uploading Untitled design.png…]()
+![Untitled design](https://github.com/user-attachments/assets/46a6c8e8-74d3-4ae7-bda6-ea6ebd8b418d)
 
 An ascii maze generator written in GO and Python
 ---
