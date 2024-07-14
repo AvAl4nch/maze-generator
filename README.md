@@ -1,4 +1,6 @@
 # maze-generator
+![Uploading Untitled design.png…]()
+
 An ascii maze generator written in GO and Python
 ---
 i used this project to learn GO and compear its speed to Python 
