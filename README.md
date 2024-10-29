@@ -3,7 +3,7 @@
 
 An ascii maze generator written in GO and Python
 ---
-i used this project to learn GO and compear its speed to Python 
+i used this project to learn GO and compare its speed to Python 
 
 > the python implementation is not good and can be made way better with OOP
 
